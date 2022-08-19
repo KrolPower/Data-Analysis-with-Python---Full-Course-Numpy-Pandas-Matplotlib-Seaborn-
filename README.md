@@ -10,3 +10,11 @@ The process of inspecting, cleansing, transforming, and modeling data with the g
 
 ## Stack Learned:
 -- Python
+
+## Why Python for Data Analysis?
+### Why would we choose Python over R or Julia?
+-- Very simple and intuitive to learn
+-- “correct” language
+-- Powerful libraries (not just for Data Analysis)
+-- Free and open source
+-- Amazing community, docs and conferences
