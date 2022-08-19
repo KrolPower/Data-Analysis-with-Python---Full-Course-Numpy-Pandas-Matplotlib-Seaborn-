@@ -8,4 +8,5 @@ The process of inspecting, cleansing, transforming, and modeling data with the g
 
 
 
-Stack Learned:
+## Stack Learned:
+-- Python
