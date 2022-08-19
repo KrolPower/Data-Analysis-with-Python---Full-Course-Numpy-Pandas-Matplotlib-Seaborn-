@@ -69,3 +69,16 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 - Building ETL pipelines
 - Live dashboard and reporting
 - Decision making and real-life tests
+
+The process starts by getting the data. Where is your data coming from? Usually, it’s in your own database. But it could also come from files stored in different formats or web APIs.  
+
+Once we’ve collected the data we’ll need to clean it. If the source of the data is your own database, then it’s probably already in shape. If you’re using more extreme sources, like web scraping, then the process will be more tedious.  
+
+With our data cleaned, we’ll now need to rearrange and reshape the data for better analysis. Transforming fields, merging tables, combining data from multiple sources, etc. The objective of this process is to get the data ready for the next step.  
+
+The process of analysis involves extracting patterns from the data that is now clean and in shape. Capturing trends or anomalies. Statistical analysis will be fundamental in this process.  
+
+Finally, it’s time to do something with that analysis. If this was a Data Science project, we could be ready to implement Machine Learning models. If we focus strictly on Data Analysis, we’ll probably need to build reports, communicate our results and support decision making.  
+
+
+Let me finish by saying that, in real life, this process isn’t so linear. We’re usually jumping back and forth between the steps, and it looks more like a cycle than a straight line.  
