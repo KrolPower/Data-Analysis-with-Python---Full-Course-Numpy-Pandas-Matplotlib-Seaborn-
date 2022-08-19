@@ -28,15 +28,15 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 
 ## The Data Analysis Process
 ### Data Extraction
-SQL
-Scrapping
-File Formats
-CSV
-JSON
-XML
-Consulting APIs
-Buying Data
-Distributed Databases
+- SQL
+- Scrapping
+- File Formats
+- CSV
+- JSON
+- XML
+- Consulting APIs
+- Buying Data
+- Distributed Databases
 
 ### Data Cleaning
 - Missing values and empty data
