@@ -13,8 +13,14 @@ The process of inspecting, cleansing, transforming, and modeling data with the g
 
 ## Why Python for Data Analysis?
 ### Why would we choose Python over R or Julia?
--- Very simple and intuitive to learn  
--- “correct” language  
--- Powerful libraries (not just for Data Analysis)  
--- Free and open source  
--- Amazing community, docs and conferences  
+- Very simple and intuitive to learn  
+- “correct” language  
+- Powerful libraries (not just for Data Analysis)  
+- Free and open source  
+- Amazing community, docs and conferences  
+
+
+### When to choose R?
+- When R Studio is needed  
+- When dealing with advanced statistical methods  
+- When extreme performance is needed  
