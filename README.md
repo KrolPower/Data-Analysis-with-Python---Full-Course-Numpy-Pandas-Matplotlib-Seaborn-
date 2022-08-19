@@ -27,7 +27,7 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 
 
 ## The Data Analysis Process
-### Data Extraction
+### 1: Data Extraction
 - SQL
 - Scrapping
 - File Formats
@@ -38,7 +38,7 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 - Buying Data
 - Distributed Databases
 
-### Data Cleaning
+### 2: Data Cleaning
 - Missing values and empty data
 - Data imputation
 - Incorrect types
@@ -46,14 +46,14 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 - Outliers and non relevant data
 - Statistical sanitization
 
-### Data Wrangling
+### 3: Data Wrangling
 - Hierarchical Data
 - Handling categorical data
 - Reshaping and transforming structures
 - Indexing data for quick access
 - Merging, combining and joining data
 
-### Analysis
+### 4: Analysis
 - Exploration
 - Building statistical models
 - Visualization and representations
@@ -62,7 +62,7 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 - Statistical analysis
 - Reporting
 
-### Action
+### 5: Action
 - Building Machine Learning Models
 - Feature Engineering
 - Moving ML into production
