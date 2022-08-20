@@ -77,9 +77,13 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 ### What's the mean of `Customers_Age`?
 sales['Customer_Age'].mean()
 
+```python
+print("Hello World")
+```
 
-
-
+```
+print("Hello World")
+```
 
 # Part 3: Jupyter Notebooks Tutorial
 ## A step by step tutorial to learn how to use Juptyer Notebooks
