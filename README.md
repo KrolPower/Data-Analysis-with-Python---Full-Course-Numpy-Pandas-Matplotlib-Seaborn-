@@ -11,6 +11,8 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 - Python
 
 
+# Part 1: Introduction
+
 ## Why Python for Data Analysis?
 ### Why would we choose Python over R or Julia?
 - Very simple and intuitive to learn  
@@ -69,5 +71,40 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 - Building ETL pipelines
 - Live dashboard and reporting
 - Decision making and real-life tests
+
+
+# Part 2: Real Life Example of a Python/Pandas Data Analysis project
+## A demonstration of a real life data analysis project using Python, Pandas, SQL and Seaborn.
+
+
+
+
+# Part 3: Jupyter Notebooks Tutorial
+## A step by step tutorial to learn how to use Juptyer Notebooks
+
+
+
+
+# Part 4: Intro to NumPy
+## Learn why NumPy was such an important library for the data-processing world in Python. Learn about low level details of computations and memory storage, and why tools like Excel will always be limited when processing large volumes of data.
+
+
+# Part 5: Intro to Pandas
+## Pandas is arguably the most important library for Data Processing in the Python world. Learn how it works and how its main data structure, the Data Frame, compares to other tools like spreadsheets or DFs used for Big Data
+
+
+# Part 6: Data Cleaning
+## Learn the different types of issues that we'll face with our data: null values, invalid values, statistical outliers, etc, and how to clean them.
+
+
+
+# Part 7: Reading Data from other sources
+
+
+
+
+# Part 8: Python Recap
+## If your Python or coding skills are rusty, check out this section for a quick recap of Python main features and control flow structures.
+
 
 
