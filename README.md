@@ -74,16 +74,48 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 
 # Part 2: Real Life Example of a Python/Pandas Data Analysis project
 ## A demonstration of a real life data analysis project using Python, Pandas, SQL and Seaborn.
+
 ### What's the mean of `Customers_Age`?
-sales['Customer_Age'].mean()
-
 ```python
-print("Hello World")
+sales['Customer_Age'].mean()
 ```
 
+### Go ahead and show a <b>density (KDE)</b> and a <b>box plot</b> with the `Customer_Age` data:
+```python
+sales['Customer_Age'].plot(kind='kde', figsize=(14,6))
 ```
-print("Hello World")
-```
+![image info](Lecture_02\Images\2_1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Part 3: Jupyter Notebooks Tutorial
 ## A step by step tutorial to learn how to use Juptyer Notebooks
