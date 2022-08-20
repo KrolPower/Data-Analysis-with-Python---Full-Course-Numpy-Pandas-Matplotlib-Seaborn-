@@ -12,7 +12,6 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 
 
 # Part 1: Introduction
-
 ## Why Python for Data Analysis?
 ### Why would we choose Python over R or Julia?
 - Very simple and intuitive to learn  
@@ -75,6 +74,9 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 
 # Part 2: Real Life Example of a Python/Pandas Data Analysis project
 ## A demonstration of a real life data analysis project using Python, Pandas, SQL and Seaborn.
+### What's the mean of `Customers_Age`?
+sales['Customer_Age'].mean()
+
 
 
 
