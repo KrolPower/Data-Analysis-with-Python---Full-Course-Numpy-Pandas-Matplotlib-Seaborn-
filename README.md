@@ -105,6 +105,53 @@ sales['Order_Quantity'].plot(kind='hist', bins=30, figsize=(14,6))
 ![Histogram](/Lecture_02/Images/2_3.png)
 
 
+```python
+sales['Order_Quantity'].plot(kind='box', vert=False, figsize=(14,6))
+```
+![Histogram](/Lecture_02/Images/2_4.png)
+
+
+### How many sales per year do we have?
+```python
+sales['Year'].value_counts()
+```
+
+### Go ahead and show a <b>pie plot</b> with the previous data:
+```python
+sales['Year'].value_counts().plot(kind='pie', figsize=(6,6))
+```
+![Pie Plot](/Lecture_02/Images/2_5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
