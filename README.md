@@ -84,7 +84,7 @@ sales['Customer_Age'].mean()
 ```python
 sales['Customer_Age'].plot(kind='kde', figsize=(14,6))
 ```
-![image info](Lecture_02\Images\2_1.png)
+![image info](/Lecture_02/Images/2_1.png)
 
 
 
