@@ -84,7 +84,12 @@ sales['Customer_Age'].mean()
 ```python
 sales['Customer_Age'].plot(kind='kde', figsize=(14,6))
 ```
-![image info](/Lecture_02/Images/2_1.png)
+![Density(KDE)](/Lecture_02/Images/2_1.png)
+
+```python
+sales['Customer_Age'].plot(kind='box', vert=False, figsize=(14,6))
+```
+![Box Plot](/Lecture_02/Images/2_2.png)
 
 
 
