@@ -137,47 +137,48 @@ sales['Year'].value_counts().plot(kind='pie', figsize=(6,6))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Part 3: Jupyter Notebooks Tutorial
 ## A step by step tutorial to learn how to use Juptyer Notebooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
