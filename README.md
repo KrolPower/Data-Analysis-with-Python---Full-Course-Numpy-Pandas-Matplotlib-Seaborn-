@@ -92,10 +92,17 @@ sales['Customer_Age'].plot(kind='box', vert=False, figsize=(14,6))
 ![Box Plot](/Lecture_02/Images/2_2.png)
 
 
+### What's the mean of `Order_Quantity`?
+```python
+sales['Order_Quantity'].mean()
+```
 
 
-
-
+### Go ahead and show a <b>histogram</b> and a <b>box plot</b> with the `Order_Quantity` data:
+```python
+sales['Order_Quantity'].plot(kind='hist', bins=30, figsize=(14,6))
+```
+![Histogram](/Lecture_02/Images/2_3.png)
 
 
 
